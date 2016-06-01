@@ -2,9 +2,6 @@
 
 Awesome Neo4j Browser is a open-source browser for neo4j (graph databases), based on pure front-end stack.
 
-
-![Screenshot](http://www.bsimard.com/image?name=/Application/tank/screenshot.png)
-
 ## What can I do with the browser
 
 The main purpose of this project is to simplify the creation of a graph visualisation for [neo4j](http://www.neo4j.org). And enable the capability of secondary development.
